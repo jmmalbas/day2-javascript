@@ -1,4 +1,4 @@
-// Create an employee object
+// JAVASCRIPT COMPLEX VARIABLES
 const employee = {
   firstName: 'John Michael',
   lastName: 'Malbas',

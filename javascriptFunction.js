@@ -1,8 +1,8 @@
-// Sample employee object
+// JAVASCRIPT FUNCTIONS
 const employee = {
-  firstName: 'Luke',
-  lastName: 'Skywalker',
-  departmentId: 42,
+  firstName: 'Michael',
+  lastName: 'Jordan',
+  departmentId: 123,
   salary: 100000,
   active: true,
 };
